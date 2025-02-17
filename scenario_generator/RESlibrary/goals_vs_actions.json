@@ -1,0 +1,158 @@
+[
+    {
+        "Action": "reduction_of_demand",
+        "properties": {
+            "Category": "Category A : Demand",
+            "Higher rate of renewable energy": 1.0,
+            "Higher efficiency": 3.0,
+            "Energy self-sufficiency": 2.0,
+            "Decarbonisation of H&C": 1.0,
+            "Electrification": 2.0,
+            "E-mobility": 2.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "demand_response",
+        "properties": {
+            "Category": "Category A : Demand",
+            "Higher rate of renewable energy": 1.0,
+            "Higher efficiency": 3.0,
+            "Energy self-sufficiency": 2.0,
+            "Decarbonisation of H&C": 1.0,
+            "Electrification": 3.0,
+            "E-mobility": 3.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "solar_fleet",
+        "properties": {
+            "Category": "Category B : Power generation",
+            "Higher rate of renewable energy": 3.0,
+            "Higher efficiency": 3.0,
+            "Energy self-sufficiency": 3.0,
+            "Decarbonisation of H&C": 1.0,
+            "Electrification": 3.0,
+            "E-mobility": 2.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "wind_fleet",
+        "properties": {
+            "Category": "Category B : Power generation",
+            "Higher rate of renewable energy": 3.0,
+            "Higher efficiency": 1.0,
+            "Energy self-sufficiency": 3.0,
+            "Decarbonisation of H&C": 1.0,
+            "Electrification": 3.0,
+            "E-mobility": 2.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "solar_thermal",
+        "properties": {
+            "Category": "Category C : Heat generation",
+            "Higher rate of renewable energy": 3.0,
+            "Higher efficiency": 1.0,
+            "Energy self-sufficiency": 3.0,
+            "Decarbonisation of H&C": 3.0,
+            "Electrification": 1.0,
+            "E-mobility": 1.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "biomass_boiler",
+        "properties": {
+            "Category": "Category C : Heat generation",
+            "Higher rate of renewable energy": 3.0,
+            "Higher efficiency": 1.0,
+            "Energy self-sufficiency": 2.0,
+            "Decarbonisation of H&C": 3.0,
+            "Electrification": 1.0,
+            "E-mobility": 1.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "heat_pump",
+        "properties": {
+            "Category": "Category C : Heat generation",
+            "Higher rate of renewable energy": 3.0,
+            "Higher efficiency": 3.0,
+            "Energy self-sufficiency": 2.0,
+            "Decarbonisation of H&C": 3.0,
+            "Electrification": 3.0,
+            "E-mobility": 1.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "biomass_chp",
+        "properties": {
+            "Category": "Category E : Combined heat and power generation",
+            "Higher rate of renewable energy": 3.0,
+            "Higher efficiency": 1.0,
+            "Energy self-sufficiency": 2.0,
+            "Decarbonisation of H&C": 2.0,
+            "Electrification": 2.0,
+            "E-mobility": 1.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "battery_storage",
+        "properties": {
+            "Category": "Category F : Storage",
+            "Higher rate of renewable energy": 2.0,
+            "Higher efficiency": 2.0,
+            "Energy self-sufficiency": 3.0,
+            "Decarbonisation of H&C": 1.0,
+            "Electrification": 3.0,
+            "E-mobility": 2.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "heat_storage",
+        "properties": {
+            "Category": "Category F : Storage",
+            "Higher rate of renewable energy": 2.0,
+            "Higher efficiency": 2.0,
+            "Energy self-sufficiency": 2.0,
+            "Decarbonisation of H&C": 2.0,
+            "Electrification": 2.0,
+            "E-mobility": 1.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "creation_of_dhn",
+        "properties": {
+            "Category": "Category G : Networks and transmissions",
+            "Higher rate of renewable energy": 2.0,
+            "Higher efficiency": 2.0,
+            "Energy self-sufficiency": 2.0,
+            "Decarbonisation of H&C": 2.0,
+            "Electrification": 1.0,
+            "E-mobility": 1.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    },
+    {
+        "Action": "charging_station",
+        "properties": {
+            "Category": "Category H : Electric vehicles",
+            "Higher rate of renewable energy": 1.0,
+            "Higher efficiency": 1.0,
+            "Energy self-sufficiency": 2.0,
+            "Decarbonisation of H&C": 1.0,
+            "Electrification": 3.0,
+            "E-mobility": 3.0,
+            "Otra cosa,No estoy seguro": null
+        }
+    }
+]

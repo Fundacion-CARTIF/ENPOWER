@@ -1,0 +1,9 @@
+year: 2019
+area: 20.0
+variable_costs: 0.05
+rho_g: 0.2
+eta_0: 0.8
+a_1: 3.5
+a_2: 0.015
+temperature_mean: 30
+collector_inlet_temperature: 15

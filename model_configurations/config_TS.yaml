@@ -1,0 +1,7 @@
+marginal_cost_charging: 0.001
+marginal_cost_discharging: 0.0055
+capacity_loss: 0.0005
+initial_storage_level: 0.5
+nominal_storage_capacity: 10
+inflow_conversion_factor: 0.95
+outflow_conversion_factor: 0.90

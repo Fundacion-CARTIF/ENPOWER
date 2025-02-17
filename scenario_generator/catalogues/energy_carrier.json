@@ -1,0 +1,893 @@
+[
+    {
+      "name": "coal",
+      "id": 1,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 1,
+          "pef_tot": 1.1,
+          "pef_nren": 1.1,
+          "f_co2_eq_g_kwh": 356.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 31,
+          "id": 1,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "PEF source: ISO52000-1\nEmission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 1,
+          "pef_tot": 1.46,
+          "pef_nren": 1.46,
+          "f_co2_eq_g_kwh": 375.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 1,
+          "id": 11,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 1,
+          "pef_tot": 1.0,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 340.6,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 9,
+          "id": 86,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 1,
+          "pef_tot": 1.1,
+          "pef_nren": 1.1,
+          "f_co2_eq_g_kwh": 358.69,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 143,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 1,
+          "pef_tot": 1.084,
+          "pef_nren": 1.082,
+          "f_co2_eq_g_kwh": 472.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 27,
+          "id": 259,
+          "pef_ren": 0.002,
+          "house_costs_eur_kwh": null,
+          "reference": "Spain PEF and emission factors from; https://energia.gob.es/desarrollo/EficienciaEnergetica/RITE/Reconocidos/Reconocidos/Otros%20documentos/Factores_emision_CO2.pdf"
+        }
+      ]
+    },
+    {
+      "name": "gasoline",
+      "id": 2,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 2,
+          "pef_tot": 1.1,
+          "pef_nren": 1.1,
+          "f_co2_eq_g_kwh": 250.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 31,
+          "id": 2,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "PEF source: ISO52000-1\nEmission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 2,
+          "pef_tot": 1.0,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 262.4,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 9,
+          "id": 87,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 2,
+          "pef_tot": null,
+          "pef_nren": null,
+          "f_co2_eq_g_kwh": 251.8,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 144,
+          "pef_ren": null,
+          "house_costs_eur_kwh": null,
+          "reference": null
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 2,
+          "pef_tot": null,
+          "pef_nren": null,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 27,
+          "id": 260,
+          "pef_ren": null,
+          "house_costs_eur_kwh": null,
+          "reference": null
+        }
+      ]
+    },
+    {
+      "name": "diesel",
+      "id": 3,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 3,
+          "pef_tot": 1.1,
+          "pef_nren": 1.1,
+          "f_co2_eq_g_kwh": 268.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 31,
+          "id": 3,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "PEF source: ISO52000-1\nEmission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 3,
+          "pef_tot": 1.0,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 265.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 9,
+          "id": 88,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 3,
+          "pef_tot": 1.07,
+          "pef_nren": 1.07,
+          "f_co2_eq_g_kwh": 266.55,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 145,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 3,
+          "pef_tot": 1.182,
+          "pef_nren": 1.179,
+          "f_co2_eq_g_kwh": 311.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 27,
+          "id": 261,
+          "pef_ren": 0.003,
+          "house_costs_eur_kwh": null,
+          "reference": "\"Gas\u00f3leo\" Spain PEF and emission factors from; https://energia.gob.es/desarrollo/EficienciaEnergetica/RITE/Reconocidos/Reconocidos/Otros%20documentos/Factores_emision_CO2.pdf"
+        }
+      ]
+    },
+    {
+      "name": "oil",
+      "id": 4,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 4,
+          "pef_tot": 1.1,
+          "pef_nren": 1.1,
+          "f_co2_eq_g_kwh": 268.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 31,
+          "id": 4,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "PEF source: ISO52000-1\nEmission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 4,
+          "pef_tot": 1.2,
+          "pef_nren": 1.2,
+          "f_co2_eq_g_kwh": 310.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 1,
+          "id": 14,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 4,
+          "pef_tot": 1.0,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 266.8,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 9,
+          "id": 89,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 4,
+          "pef_tot": 1.07,
+          "pef_nren": 1.07,
+          "f_co2_eq_g_kwh": 275.1,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 146,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 4,
+          "pef_tot": null,
+          "pef_nren": null,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 27,
+          "id": 262,
+          "pef_ren": null,
+          "house_costs_eur_kwh": null,
+          "reference": null
+        }
+      ]
+    },
+    {
+      "name": "gas",
+      "id": 5,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 5,
+          "pef_tot": 1.1,
+          "pef_nren": 1.1,
+          "f_co2_eq_g_kwh": 202.0,
+          "non_h_costs_eur_kwh": 0.07,
+          "country_id": 31,
+          "id": 5,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": 0.12,
+          "reference": "PEF source: ISO52000-1; Emission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf ; Energy costs: https://ec.europa.eu/eurostat/statistics-explained"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 5,
+          "pef_tot": 1.1,
+          "pef_nren": 1.1,
+          "f_co2_eq_g_kwh": 247.0,
+          "non_h_costs_eur_kwh": 0.07,
+          "country_id": 1,
+          "id": 15,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": 0.16,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 5,
+          "pef_tot": 1.0,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 198.1,
+          "non_h_costs_eur_kwh": 0.09,
+          "country_id": 9,
+          "id": 90,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": 0.09,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 5,
+          "pef_tot": 1.05,
+          "pef_nren": 1.05,
+          "f_co2_eq_g_kwh": 208.34,
+          "non_h_costs_eur_kwh": 0.09,
+          "country_id": 15,
+          "id": 147,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": 0.1,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf ; Energy costs from: https://ec.europa.eu/eurostat/statistics-explained"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 5,
+          "pef_tot": 1.195,
+          "pef_nren": 1.19,
+          "f_co2_eq_g_kwh": 252.0,
+          "non_h_costs_eur_kwh": 0.07,
+          "country_id": 27,
+          "id": 263,
+          "pef_ren": 0.05,
+          "house_costs_eur_kwh": 0.11,
+          "reference": "Spain PEF and emission factors from; https://energia.gob.es/desarrollo/EficienciaEnergetica/RITE/Reconocidos/Reconocidos/Otros%20documentos/Factores_emision_CO2.pdf ; Energy costs from: https://ec.europa.eu/eurostat/statistics-explained"
+        }
+      ]
+    },
+    {
+      "name": "waste heat",
+      "id": 6,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 6,
+          "pef_tot": 1.0,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 22.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 1,
+          "id": 16,
+          "pef_ren": 0.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 6,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 148,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        }
+      ]
+    },
+    {
+      "name": "solid biomass",
+      "id": 7,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 7,
+          "pef_tot": 1.2,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 367.0,
+          "non_h_costs_eur_kwh": 0.08,
+          "country_id": 31,
+          "id": 6,
+          "pef_ren": 0.2,
+          "house_costs_eur_kwh": 0.08,
+          "reference": "PEF source: ISO52000-1\nEmission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 7,
+          "pef_tot": 1.13,
+          "pef_nren": 0.1,
+          "f_co2_eq_g_kwh": 17.0,
+          "non_h_costs_eur_kwh": 0.04,
+          "country_id": 1,
+          "id": 17,
+          "pef_ren": 1.03,
+          "house_costs_eur_kwh": 0.04,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 7,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": 0.08,
+          "country_id": 9,
+          "id": 92,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": 0.08,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 7,
+          "pef_tot": 1.0,
+          "pef_nren": 0.2,
+          "f_co2_eq_g_kwh": 340.2,
+          "non_h_costs_eur_kwh": 0.08,
+          "country_id": 15,
+          "id": 149,
+          "pef_ren": 0.8,
+          "house_costs_eur_kwh": 0.08,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 7,
+          "pef_tot": 1.2,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 18.0,
+          "non_h_costs_eur_kwh": 0.08,
+          "country_id": 31,
+          "id": 273,
+          "pef_ren": 0.2,
+          "house_costs_eur_kwh": 0.08,
+          "reference": "PEF https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/Eficiencia/RITE/documentosreconocidosrite/Otros%20documentos/Factores_emision_CO2.pdf"
+        }
+      ]
+    },
+    {
+      "name": "liquid biomass",
+      "id": 8,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 8,
+          "pef_tot": 1.5,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 256.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 31,
+          "id": 7,
+          "pef_ren": 0.5,
+          "house_costs_eur_kwh": null,
+          "reference": "PEF source: ISO52000-1\nEmission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 8,
+          "pef_tot": 1.5,
+          "pef_nren": 0.5,
+          "f_co2_eq_g_kwh": 70.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 1,
+          "id": 18,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 8,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 9,
+          "id": 93,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 8,
+          "pef_tot": 1.0,
+          "pef_nren": 0.4,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 150,
+          "pef_ren": 0.6,
+          "house_costs_eur_kwh": null,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        }
+      ]
+    },
+    {
+      "name": "biogas",
+      "id": 9,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 9,
+          "pef_tot": 1.4,
+          "pef_nren": 1.0,
+          "f_co2_eq_g_kwh": 197.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 31,
+          "id": 8,
+          "pef_ren": 0.4,
+          "house_costs_eur_kwh": null,
+          "reference": "PEF source: ISO52000-1\nEmission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 9,
+          "pef_tot": 1.4,
+          "pef_nren": 0.4,
+          "f_co2_eq_g_kwh": 100.0,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 1,
+          "id": 19,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 9,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 9,
+          "id": 94,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 9,
+          "pef_tot": 1.0,
+          "pef_nren": 0.4,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 151,
+          "pef_ren": 0.6,
+          "house_costs_eur_kwh": null,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        }
+      ]
+    },
+    {
+      "name": "solar",
+      "id": 10,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 10,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 1,
+          "id": 21,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 10,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 9,
+          "id": 96,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 10,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 153,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 10,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 27,
+          "id": 268,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": null
+        }
+      ]
+    },
+    {
+      "name": "heat",
+      "id": 11,
+      "final": false,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "electricity_grid",
+      "id": 12,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 12,
+          "pef_tot": 2.22,
+          "pef_nren": 1.79598,
+          "f_co2_eq_g_kwh": 393.0,
+          "non_h_costs_eur_kwh": 0.19,
+          "country_id": 31,
+          "id": 10,
+          "pef_ren": 0.42402,
+          "house_costs_eur_kwh": 0.29,
+          "reference": "PEF source: Renewable Space heating revised renewable (for 2017 2.22 for electricity with 80.9% of non-RES in the mix); Emission factor source: Koffi B, et al, Covenant of Mayors for Climate and Energy: Default emission factors for local emission inventories \u2013 Version 2017, EUR 28718 EN, 18, 2017, ISBN 978-92-79-71479-5. https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/COM-EF/dataset/comw/JRC-CoM-EF-CoMW-EF-2017.pdf ; Energy costs: https://ec.europa.eu/eurostat/statistics-explained"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 12,
+          "pef_tot": 1.63,
+          "pef_nren": 1.02,
+          "f_co2_eq_g_kwh": 227.0,
+          "non_h_costs_eur_kwh": 0.26,
+          "country_id": 1,
+          "id": 22,
+          "pef_ren": 0.61,
+          "house_costs_eur_kwh": 0.27,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 12,
+          "pef_tot": 1.88,
+          "pef_nren": 1.45,
+          "f_co2_eq_g_kwh": 175.0,
+          "non_h_costs_eur_kwh": 0.1,
+          "country_id": 9,
+          "id": 97,
+          "pef_ren": 0.43,
+          "house_costs_eur_kwh": 0.26,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 12,
+          "pef_tot": 2.42,
+          "pef_nren": 1.95,
+          "f_co2_eq_g_kwh": 296.5,
+          "non_h_costs_eur_kwh": 0.2,
+          "country_id": 15,
+          "id": 154,
+          "pef_ren": 0.47,
+          "house_costs_eur_kwh": 0.38,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf ; Energy costs from: https://ec.europa.eu/eurostat/statistics-explained"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 12,
+          "pef_tot": 2.403,
+          "pef_nren": 2.007,
+          "f_co2_eq_g_kwh": 357.0,
+          "non_h_costs_eur_kwh": 0.15,
+          "country_id": 27,
+          "id": 269,
+          "pef_ren": 0.396,
+          "house_costs_eur_kwh": 0.25,
+          "reference": "\"Electricidad convencional nacional\" Spain PEF and emission factors from; https://energia.gob.es/desarrollo/EficienciaEnergetica/RITE/Reconocidos/Reconocidos/Otros%20documentos/Factores_emision_CO2.pdf ; Energy costs from: https://ec.europa.eu/eurostat/statistics-explained"
+        }
+      ]
+    },
+    {
+      "name": "hydrogen",
+      "id": 13,
+      "final": true,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "ground",
+      "id": 14,
+      "final": false,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "air",
+      "id": 15,
+      "final": false,
+      "national_energy_carrier_production": [
+        {
+          "final": false,
+          "energy_carrier_id": 15,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 1,
+          "id": 20,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": false,
+          "energy_carrier_id": 15,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 9,
+          "id": 95,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": false,
+          "energy_carrier_id": 15,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 15,
+          "id": 152,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf"
+        },
+        {
+          "final": false,
+          "energy_carrier_id": 15,
+          "pef_tot": 1.0,
+          "pef_nren": 0.0,
+          "f_co2_eq_g_kwh": null,
+          "non_h_costs_eur_kwh": null,
+          "country_id": 27,
+          "id": 267,
+          "pef_ren": 1.0,
+          "house_costs_eur_kwh": null,
+          "reference": null
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "id": 16,
+      "final": false,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "cooling",
+      "id": 17,
+      "final": false,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "wind",
+      "id": 18,
+      "final": true,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "dh_gas",
+      "id": 19,
+      "final": true,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "dh_biomass",
+      "id": 20,
+      "final": true,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "dh_waste",
+      "id": 21,
+      "final": true,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "district_cooling",
+      "id": 22,
+      "final": true,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "hydro",
+      "id": 23,
+      "final": true,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "elec_usage",
+      "id": 24,
+      "final": false,
+      "national_energy_carrier_production": []
+    },
+    {
+      "name": "dh",
+      "id": 25,
+      "final": true,
+      "national_energy_carrier_production": [
+        {
+          "final": true,
+          "energy_carrier_id": 25,
+          "pef_tot": 0.79,
+          "pef_nren": 0.54036,
+          "f_co2_eq_g_kwh": 183.835,
+          "non_h_costs_eur_kwh": 0.09,
+          "country_id": 31,
+          "id": 9,
+          "pef_ren": 0.24964,
+          "house_costs_eur_kwh": 0.09,
+          "reference": "PEF source: Renewable Space heating revised renewable (DHN with 68.4%of non-RES in 2017)"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 25,
+          "pef_tot":1.6,
+          "pef_nren": 0.28,
+          "f_co2_eq_g_kwh": 59.0,
+          "non_h_costs_eur_kwh": 0.11,
+          "country_id": 1,
+          "id": 270,
+          "pef_ren": 1.32,
+          "house_costs_eur_kwh": 0.11,
+          "reference": "Austrian PEF and emission factors source: table in section 7 of the document available at: https://www.oib.or.at/sites/default/files/richtlinie_6_12.04.19_1.pdf"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 25,
+          "pef_tot": 0.9,
+          "pef_nren": 0.77,
+          "f_co2_eq_g_kwh": 216.0,
+          "non_h_costs_eur_kwh": 0.11,
+          "country_id": 9,
+          "id": 271,
+          "pef_ren": 0.13,
+          "house_costs_eur_kwh": 0.11,
+          "reference": "Finland PEF and emission factors from Page 39 from the document:  https://ym.fi/documents/1410903/38439968/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf/8808e61d-d8ea-1a11-eab9-a56f50db5c9f/Energiamuotojen-kerroin-A6ABCFF7_55FA_412C_A0C7_FEE5CC0A2F24-30744.pdf?t=1603260226317"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 25,
+          "pef_tot": 1.04095,
+          "pef_nren":  0.4019,
+          "f_co2_eq_g_kwh": 66.0,
+          "non_h_costs_eur_kwh": 0.08,
+          "country_id": 27,
+          "id": 274,
+          "pef_ren": 0.63905,
+          "house_costs_eur_kwh": 0.08,
+          "reference": "PEF calculated assuming 0.76 of biomass,0.21 of gas an other fossil fuels and other renewables 0.03, according to Spanish Census of DHN"
+        },
+        {
+          "final": true,
+          "energy_carrier_id": 25,
+          "pef_tot": 1.05,
+          "pef_nren": 1.05,
+          "f_co2_eq_g_kwh": 208.34,
+          "non_h_costs_eur_kwh": 0.08,
+          "country_id": 15,
+          "id": 272,
+          "pef_ren": 0,
+          "house_costs_eur_kwh": 0.08,
+          "reference": "Italy PEF and emission factors from table 1 of the document available at: https://www.mise.gov.it/images/stories/normativa/DM_requisiti_minimi_allegato1.pdf; and Table 3.12 of https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/nir2022_15_r360.pdf ; Energy costs from: https://ec.europa.eu/eurostat/statistics-explained"
+        }
+      ]
+    }
+]

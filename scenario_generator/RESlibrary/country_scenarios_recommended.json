@@ -1,0 +1,350 @@
+[
+    {
+        "Country": "AT",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "True",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "BE",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "BG",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "True",
+            "HighElectrification": "False",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "CY",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "CZ",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "DE",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "True"
+        }
+    },
+    {
+        "Country": "DK",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "True",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "EE",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "True",
+            "HighElectrification": "False",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "ES",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "FI",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "False",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "FR",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "True"
+        }
+    },
+    {
+        "Country": "GB",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "True"
+        }
+    },
+    {
+        "Country": "GR",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "HR",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "HU",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "False",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "True"
+        }
+    },
+    {
+        "Country": "IE",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "IT",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "LT",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "False",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "LU",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "True"
+        }
+    },
+    {
+        "Country": "LV",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "False",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "MT",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "FalseL",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "True"
+        }
+    },
+    {
+        "Country": "PL",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "True",
+            "HighElectrification": "False",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "True"
+        }
+    },
+    {
+        "Country": "PT",
+        "properties": {
+            "Ambitious_renovator": "False",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "False",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "RO",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "False",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "False",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "SE",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "True",
+            "HighElectrification": "True",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "SK",
+        "properties": {
+            "Ambitious_renovator": null,
+            "HighDHN": null,
+            "HighElectrification": null,
+            "Biomass": null,
+            "Solar": null,
+            "SmartHeating": null,
+            "Allow_gas": null
+        }
+    },
+    {
+        "Country": "SI",
+        "properties": {
+            "Ambitious_renovator": "True",
+            "HighDHN": "False",
+            "HighElectrification": "True",
+            "Biomass": "True",
+            "Solar": "True",
+            "SmartHeating": "True",
+            "Allow_gas": "False"
+        }
+    },
+    {
+        "Country": "Source",
+        "properties": {
+            "Ambitious_renovator": "https://www.researchgate.net/publication/333371930_Development_of_Energy_demand_for_buildings_industry_and_transport_in_the_SET-Nav_pathways_-_WP5_Summary_report",
+            "HighDHN": "https://www.researchgate.net/publication/333371930_Development_of_Energy_demand_for_buildings_industry_and_transport_in_the_SET-Nav_pathways_-_WP5_Summary_report",
+            "HighElectrification": "https://www.researchgate.net/publication/333371930_Development_of_Energy_demand_for_buildings_industry_and_transport_in_the_SET-Nav_pathways_-_WP5_Summary_report",
+            "Biomass": "https://www.researchgate.net/publication/333371930_Development_of_Energy_demand_for_buildings_industry_and_transport_in_the_SET-Nav_pathways_-_WP5_Summary_report",
+            "Solar": "All true for energy communities",
+            "SmartHeating": "https://www.researchgate.net/publication/333371930_Development_of_Energy_demand_for_buildings_industry_and_transport_in_the_SET-Nav_pathways_-_WP5_Summary_report",
+            "Allow_gas": "https://www.researchgate.net/publication/333371930_Development_of_Energy_demand_for_buildings_industry_and_transport_in_the_SET-Nav_pathways_-_WP5_Summary_report"
+        }
+    }
+]

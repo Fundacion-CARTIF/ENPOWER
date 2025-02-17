@@ -1,0 +1,4 @@
+year: 2019
+location: "Granada, Spain"
+outputformat: 'epw'
+epw_filename: 'tmy_pvgis.epw'
