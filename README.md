@@ -43,5 +43,5 @@ You may copy, distribute and modify the software as long as you track changes/da
 You cannot: sublicense or hold liable.
 
 ## Disclaimer
-The content of this repository reflects only the authors' view and the European Union is not responsible for any use that may be made of the information it contains. The LocalRES consortium does not guarantee the accuracy of the data included in this repository and is not responsible for any third-party use of its contents. 
+The content of this repository reflects only the authors' view and the European Union is not responsible for any use that may be made of the information it contains. The ENPOWER consortium does not guarantee the accuracy of the data included in this repository and is not responsible for any third-party use of its contents. 
 
