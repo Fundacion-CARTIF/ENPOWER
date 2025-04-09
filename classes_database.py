@@ -111,12 +111,6 @@ class CommunityEnergyAsset:
     def add_generation_systems_info(self, Generation_system_info):
         self.generation_system_info = Generation_system_info
 
-    def add_inputs_ARTELYS(self, inputs_ARTELYS):
-        self.pmax_scalar = inputs_ARTELYS.get("pmax_scalar", {})
-        self.input1 = inputs_ARTELYS.get("availability_ts", {}).get("value_input1", [])
-        self.input2 = inputs_ARTELYS.get("availability_ts", {}).get("value_input2", [])
-        self.output1 = inputs_ARTELYS.get("availability_ts", {}).get("value_output1", [])
-        self.output2 = inputs_ARTELYS.get("availability_ts", {}).get("value_output2", [])
     def to_dict(self):
         """Convert the object to a dictionary matching the required JSON structure."""
         return {
