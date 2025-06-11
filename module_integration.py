@@ -18,11 +18,6 @@ def get_new_context(goal, community_context,recommendations_dic):
     community_context_updated = reverse_whole_structure(community_context)
     # get new based on the recommendations
     new_context = resbased_generator_context_creation(goal, community_context_updated, recommendations_dic)
-    #call ARTELYS
-    ARTELYS_output={}
-    #Transform ARTELYS Outputs
-    merged_context_with_building_assets=merge_building_assets(new_context,ARTELYS_output)
-    merged_context=merge_community_assets(merged_context_with_building_assets, ARTELYS_output)
     #with new structure calculate indicators
     citizen_KPIs_per_building, demand_profiles_context,areas_buildings=recalculate_indicators(merged_context)
     #calculate total aggregated demand
